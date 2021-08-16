@@ -2,7 +2,7 @@
 
 ## Funcionalidad
 
-
+Realiza como el nombre lo indica, es generar un trigramma cual es unir 3 palabras.
 
 ## Como se Utiliza
 
